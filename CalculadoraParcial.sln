@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.5.33414.496
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CalculadoraParcial", "CalculadoraParcial.csproj", "{FA783C5E-9013-4EE1-895F-ED8981FE4FFE}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{FA783C5E-9013-4EE1-895F-ED8981FE4FFE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FA783C5E-9013-4EE1-895F-ED8981FE4FFE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{FA783C5E-9013-4EE1-895F-ED8981FE4FFE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{FA783C5E-9013-4EE1-895F-ED8981FE4FFE}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {6DD04CDB-1D51-4929-AA2C-2CBC6AE105B3}
+	EndGlobalSection
+EndGlobal

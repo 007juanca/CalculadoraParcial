@@ -1,0 +1,15 @@
+C:\Users\juanc\source\repos\CalculadoraParcial\bin\Debug\net6.0\CalculadoraParcial.exe
+C:\Users\juanc\source\repos\CalculadoraParcial\bin\Debug\net6.0\CalculadoraParcial.deps.json
+C:\Users\juanc\source\repos\CalculadoraParcial\bin\Debug\net6.0\CalculadoraParcial.runtimeconfig.json
+C:\Users\juanc\source\repos\CalculadoraParcial\bin\Debug\net6.0\CalculadoraParcial.dll
+C:\Users\juanc\source\repos\CalculadoraParcial\bin\Debug\net6.0\CalculadoraParcial.pdb
+C:\Users\juanc\source\repos\CalculadoraParcial\obj\Debug\net6.0\CalculadoraParcial.csproj.AssemblyReference.cache
+C:\Users\juanc\source\repos\CalculadoraParcial\obj\Debug\net6.0\CalculadoraParcial.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\juanc\source\repos\CalculadoraParcial\obj\Debug\net6.0\CalculadoraParcial.AssemblyInfoInputs.cache
+C:\Users\juanc\source\repos\CalculadoraParcial\obj\Debug\net6.0\CalculadoraParcial.AssemblyInfo.cs
+C:\Users\juanc\source\repos\CalculadoraParcial\obj\Debug\net6.0\CalculadoraParcial.csproj.CoreCompileInputs.cache
+C:\Users\juanc\source\repos\CalculadoraParcial\obj\Debug\net6.0\CalculadoraParcial.dll
+C:\Users\juanc\source\repos\CalculadoraParcial\obj\Debug\net6.0\refint\CalculadoraParcial.dll
+C:\Users\juanc\source\repos\CalculadoraParcial\obj\Debug\net6.0\CalculadoraParcial.pdb
+C:\Users\juanc\source\repos\CalculadoraParcial\obj\Debug\net6.0\CalculadoraParcial.genruntimeconfig.cache
+C:\Users\juanc\source\repos\CalculadoraParcial\obj\Debug\net6.0\ref\CalculadoraParcial.dll
